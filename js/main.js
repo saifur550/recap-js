@@ -231,5 +231,16 @@ for ( i = 0; i<= number.length; i++){
 
 
 function muti ( num1,num2,num3){
-    
+    let total = num1* num2* num3;
+    return total;
+
 }
+
+
+
+
+const result =muti(20,54,34);
+console.log(result);
+
+
+// 12. declare an object and change any property of that object.
