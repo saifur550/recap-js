@@ -244,3 +244,8 @@ console.log(result);
 
 
 // 12. declare an object and change any property of that object.
+
+
+let studentInfo = {student:'saifur', age :21, college:'ctg'};
+var checkItem =studentInfo.age = 23;
+console.log(studentInfo)
